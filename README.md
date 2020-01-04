@@ -1,5 +1,4 @@
-14th dacon contest : Smishing
-14th dacon contest : Smishing
+# 14th dacon contest : Smishing
 
 ### 8 popular NLP (natural language processing) models
 
