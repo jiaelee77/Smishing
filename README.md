@@ -1,10 +1,13 @@
+14th dacon contest : Smishing
+14th dacon contest : Smishing
+
 ### 8 popular NLP (natural language processing) models
 
-#### **multi-purpose**
+#### multi-purpose
 ULMFit, Transformer, Google's BERT, Transformer-XL, OpenAPI's GPT2
--
-#### **Word Embeddings** 
+
+#### Word Embeddings 
 ELMo, Flair
 
-#### **the others** 
+#### the others
 StanfordNLP
